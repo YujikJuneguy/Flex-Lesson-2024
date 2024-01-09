@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .sfe {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color: rgb(148, 9, 167);
+    height: 80px;
+    color: white;
+    margin-bottom: 23px;
+        font-size: 40px;}
+
+
+ .content {
+    display: flex;
+    height: 400px;
+        flex-direction: row; 
+    justify-content: space-evenly;
+     }
+
+   .desc {
+      padding-top: 40px;
+      width: 400px;
+      height: 410px;
+      background-color: aqua;
+      padding-left: 15px;
+
+   }   
+   h2{
+      margin-bottom: 10px;
+   }
+   p{
+      padding-right: 10px;
+   }
