@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ .sfe {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    background-color: rgb(148, 9, 167);
+    height: 80px;
+    color: white;
+    margin-bottom: 23px;
+    font-size: 40px;}
+
+ .content {
+    display: flex;
+    height: 400px;
+    flex
+
+
+ }
